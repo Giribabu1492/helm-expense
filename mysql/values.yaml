@@ -1,4 +1,2 @@
-statefulset: 
-  version: 1.0.0
-  storage: 1Gi
+Deployment: 
   replicas: 3  
