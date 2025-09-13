@@ -1,2 +1,2 @@
-Deployment: 
+deployment: 
   replicas: 3  
