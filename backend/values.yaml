@@ -1,0 +1,3 @@
+deplyment:
+  replicas: 3
+  containerPort: 8080
